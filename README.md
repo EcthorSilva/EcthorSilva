@@ -12,9 +12,15 @@
     <img aling="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+</div><br>
 
-### Miscellaneous 
+<details>
+  <summary>
+      <b>Quer saber mais sobre mim?</b>
+      <i>(Clique aqui para expandir)</i>
+    </summary>
+
+### Skills 
 
 <div style="display: inline_block">
     <img aling="center" alt="" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -28,3 +34,5 @@
 ### Linguagens mais usadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EcthorSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
