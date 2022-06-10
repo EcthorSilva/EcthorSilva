@@ -32,5 +32,3 @@
 </div>
 
 </details>
-
-![Snake animation](https://github.com/AlvarinoLemes/AlvarinoLemes/blob/output/github-contribution-grid-snake.svg)
