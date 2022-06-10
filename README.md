@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ecthor Silva :vulcan_salute::raised_hand_with_fingers_splayed: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EcthorSilva&show_icons=true&theme=dracula)
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EcthorSilva&show_icons=true&theme=white&include_all_commits=true&count_private=true"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcthorSilva&layout=compact&langs_count=8&theme=white"/>
 
 ### Linguagens e tecnologias que estou estudando
 
@@ -31,8 +31,6 @@
     <img aling="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
-### Linguagens mais usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EcthorSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </details>
+
+![Snake animation](https://github.com/AlvarinoLemes/AlvarinoLemes/blob/output/github-contribution-grid-snake.svg)
