@@ -1,6 +1,6 @@
 ## Hi, I'm Ecthor :vulcan_salute::raised_hand_with_fingers_splayed: 
 
-###### Formado no curso técnico de desenvolvimento de sistemas, atuo como representante de Help Desk na empresa NCR Brasil, além de ser desenvolvedor front-end nas horas vagas.  
+###### Formado no curso técnico de desenvolvimento de sistemas, atuo como representante de Help Desk na empresa NCR Brasil, além de ser desenvolvedor web nas horas vagas.  
 
 #### Linguagens e Tecnologias que estudo atualmente
 
