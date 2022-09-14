@@ -17,7 +17,7 @@
 
 <br>
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EcthorSilva&show_icons=true&theme=white&include_all_commits=true&count_private=true"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcthorSilva&layout=compact&langs_count=8&theme=white"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=EcthorSilva&show_icons=true&theme=white&include_all_commits=true"/> <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcthorSilva&layout=compact"/>
 
 <br>
 
