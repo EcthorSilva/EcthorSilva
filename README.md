@@ -1,9 +1,10 @@
 ## Hi, I'm Ecthor :vulcan_salute::raised_hand_with_fingers_splayed: 
 
-###### Formado no curso técnico de desenvolvimento de sistemas, atuo como representante de Help Desk na empresa NCR Brasil, além de ser desenvolvedor web nas horas vagas.  
+###### Sou estudante de análise e desenvolvimento de sistemas no Centro Universitário SENAC, com formação técnica em desenvolvimento de sistemas pela ETEC Irmã Agostina. Estou em processo de transição de carreira, migrando da área de suporte e operações de TI para o desenvolvimento web.   
 
 #### Linguagens e Tecnologias que estudo atualmente
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black "Java")
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
