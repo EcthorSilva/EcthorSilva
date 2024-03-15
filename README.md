@@ -1,6 +1,6 @@
-## Hi, I'm Ecthor :vulcan_salute::raised_hand_with_fingers_splayed: 
+## Hi, I'm Ecthor :raised_hand_with_fingers_splayed: 
 
-###### Sou estudante de análise e desenvolvimento de sistemas no Centro Universitário SENAC, com formação técnica em desenvolvimento de sistemas pela ETEC Irmã Agostina. Estou em processo de transição de carreira, migrando da área de suporte e operações de TI para o desenvolvimento web.   
+###### Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC, com formação técnica em Desenvolvimento de Sistemas pela ETEC Irmã Agostina. Sou um entusiasta da tecnologia e apaixonado por programação. No momento, sou estagiário em computação avançada na empresa Eviden.
 
 #### Linguagens e Tecnologias que estudo atualmente
 
